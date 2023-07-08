@@ -1,0 +1,39 @@
+ul li{
+    margin-bottom: 10px;
+}
+ul{
+    
+    color: black;
+    width: 50%;
+  list-style: none;
+}
+li{
+    border: 1px solid black;
+    width:100%;
+    background-color: white;
+   border-radius: 5px;
+}
+.spanUser{
+    padding: 10px 3px;
+    font-weight: bold;
+   
+}
+.spanTime{
+   margin-left: 100px;
+    font-weight: bold;
+    
+}
+.deleteButton{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    margin-right: 20px;
+}

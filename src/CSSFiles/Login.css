@@ -1,0 +1,28 @@
+form{
+    display: inline;
+    border-radius: 20px;
+    border: 1px solid black;
+    width: 18%;
+    background-color: white;
+    height: 40%;
+}
+input {
+    padding: 7px;
+    margin: 10px 50px;
+  }
+  label{
+    margin-left: 20px;
+    font-weight: bold;
+  }
+  h2{
+    text-align: center;
+  }
+  button{
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    border-radius: 5px;
+    border: 1px solid darkgreen;
+    margin: 10px 110px;
+    
+  }

@@ -1,0 +1,27 @@
+.messageForm{
+    
+    padding: 10px 10px;
+}
+.messageInput{
+        background-color: transparent;
+        border: none;
+        font-size: large;
+        transition: border-color 0.3s ease;
+        outline: none;
+      
+}
+
+.messageButton{
+    display: inline-block;
+    padding: 8px 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    margin-right: 20px;
+}
